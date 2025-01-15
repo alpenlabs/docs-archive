@@ -79,7 +79,7 @@ nav:
       - Transaction lifecycle: technical/transaction-lifecycle.md
       - Bitcoin bridge: technical/bitcoin-bridge.md
       - Comparing Strata and Ethereum: technical/comparing-ethereum.md
-  - Security: security.txt
+  - Security: https://www.stratabtc.org/.well-known/security.txt
   - Community:
       - Website: https://stratabtc.org
       - GitHub: https://github.com/alpenlabs/strata
